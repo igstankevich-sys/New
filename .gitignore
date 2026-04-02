@@ -1,0 +1,7 @@
+# SFTP / деплой — не публиковать
+.vscode/sftp.json
+
+# Системное
+Thumbs.db
+Desktop.ini
+*.log

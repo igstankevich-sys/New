@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://protect-online.ru/sitemap.xml
